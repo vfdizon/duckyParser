@@ -1,0 +1,8 @@
+ENTER
+STRING function testFunction {
+ENTER
+ENTER
+STRING 	Write-Host "This is a test function"
+ENTER
+STRING }
+ENTER

@@ -1,0 +1,5 @@
+
+function testFunction {
+
+	Write-Host "This is a test function"
+}
